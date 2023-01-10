@@ -1,3 +1,4 @@
+#name: dominic denti
 """numlength accepts one integer checks the length and returns it"""
 def numlength(x):
     if(x <= -1):
